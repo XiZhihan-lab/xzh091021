@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xzh091021
+- 👋 Hi, I’m @XiZhihan-lab
 - 👀 I’m interested in computer programming.
 - 🌱 I’m currently learning advanced computer science.
 - 💞️ I’m looking to collaborate on computer systems.
